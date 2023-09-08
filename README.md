@@ -1,1 +1,1 @@
-# Hardware AI Accelerator
+# Hardware Accelerator for Artificial Intelligence (AI)

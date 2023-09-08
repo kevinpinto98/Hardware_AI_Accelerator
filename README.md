@@ -1,1 +1,1 @@
-# Hardware_AI_Accelerator
+# Hardware AI Accelerator
